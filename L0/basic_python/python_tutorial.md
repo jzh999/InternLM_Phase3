@@ -18,11 +18,11 @@ Yes, it is fun!"""
 
 Code：
 
-![image-20240716175025481](image_src\image-20240716175025481.png)
+![image-20240716175025481](image_src/image-20240716175025481.png)
 
 Output:
 
-![image-20240716175057366](image_src\image-20240716175057366.png)
+![image-20240716175057366](image_src/image-20240716175057366.png)
 
 Input：
 
@@ -41,7 +41,7 @@ to her.
 
 Output：
 
-![image-20240716180327115](image_src\image-20240716180327115.png)
+![image-20240716180327115](image_src/image-20240716180327115.png)
 
 
 
@@ -51,4 +51,4 @@ Output：
 
 字符统计debug过程截图
 
-![image-20240716180503414](image_src\image-20240716180503414.png)
+![image-20240716180503414](image_src/image-20240716180503414.png)

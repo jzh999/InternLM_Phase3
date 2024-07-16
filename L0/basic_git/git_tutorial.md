@@ -42,19 +42,19 @@ git stash 暂存
 
 自我介绍
 
-![image-20240716232831554](image_src\image-20240716232831554.png)
+![image-20240716232831554](image_src/image-20240716232831554.png)
 
 git clone 仓库
 
-![image-20240716233229093](image_src\image-20240716233229093.png)
+![image-20240716233229093](image_src/image-20240716233229093.png)
 
 修改自我介绍文件并提交
 
-![image-20240716233317603](image_src\image-20240716233317603.png)
+![image-20240716233317603](image_src/image-20240716233317603.png)
 
 提交PR
 
-![image-20240716233855374](image_src\image-20240716233855374.png)
+![image-20240716233855374](image_src/image-20240716233855374.png)
 
 
 
@@ -62,4 +62,4 @@ git clone 仓库
 
 创建了仓库，命名为InternLM_Phase3用来进行提交作业。
 
-![image-20240716234745890](image_src\image-20240716234745890.png)
+![image-20240716234745890](image_src/image-20240716234745890.png)
